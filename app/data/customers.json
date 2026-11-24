@@ -1,0 +1,42 @@
+{
+  "C-1001": {
+    "name": "Claire Martin",
+    "segment": "Retail - young professional",
+    "products": ["Current account", "Visa Premier card", "Livret A"],
+    "advisor_notes": "Recently promoted. Mentioned wanting to buy a flat within two years.",
+    "messages": [
+      {
+        "sent_at": "2026-11-02T09:14:00+01:00",
+        "direction": "inbound",
+        "subject": "Mortgage simulation",
+        "body": "Hello, I would like to know how much I could borrow for a flat around 250k in Rennes."
+      },
+      {
+        "sent_at": "2026-11-03T16:40:00+01:00",
+        "direction": "outbound",
+        "subject": "Re: Mortgage simulation",
+        "body": "Thank you for your message. Could you send your last three payslips so we can run a simulation?"
+      },
+      {
+        "sent_at": "2026-11-18T11:05:00+01:00",
+        "direction": "inbound",
+        "subject": "Card payment refused",
+        "body": "My card was refused abroad yesterday although I have enough money on my account."
+      }
+    ]
+  },
+  "C-1002": {
+    "name": "Yanis Benali",
+    "segment": "Professional - craftsman",
+    "products": ["Business account", "Overdraft facility"],
+    "advisor_notes": "Seasonal activity, cash flow tight in winter.",
+    "messages": [
+      {
+        "sent_at": "2026-10-28T08:30:00+01:00",
+        "direction": "inbound",
+        "subject": "Overdraft limit",
+        "body": "Is it possible to raise my overdraft limit until March? Activity is slow this season."
+      }
+    ]
+  }
+}
